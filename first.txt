@@ -5,3 +5,4 @@ good afternoon
 Changes chedam ani open chestuna eh file
 Checking that message commit with vim/vscode
 checking using gui
+checking that amend 

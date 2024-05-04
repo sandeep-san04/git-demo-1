@@ -2,3 +2,4 @@ first commit
 HEllo i'm second one
 second commit
 Hello checking that second commit
+checking ammend commit
